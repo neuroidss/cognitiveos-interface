@@ -1,0 +1,5 @@
+{
+  "name": "CognitiveOS Interface",
+  "description": "A conceptual operating system interface with app windows, a dock, and Mind-CLI powered by a mock AI, with support for NeuroLink BCI device scanning via Web Bluetooth.",
+  "requestFramePermissions": []
+}
