@@ -1,3 +1,5 @@
+![cognitiveos-interface](https://github.com/neuroidss/cognitiveos-interface/blob/main/Screenshot%20from%202025-06-25%2019-27-43.png?raw=true)
+
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
